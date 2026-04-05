@@ -1,0 +1,115 @@
+{
+  "v": 1,
+  "applications": {
+    "rp": true,
+    "vzp": true
+  },
+  "war_timer": {
+    "1490462568894955520": {
+      "channel_id": 1480687606454026333,
+      "attack_at": null,
+      "defense_at": null
+    }
+  },
+  "vzp_stats": [],
+  "gather": {
+    "1490456422650089705": {
+      "kind_key": "vzp",
+      "title": "",
+      "max_main": 20,
+      "max_extra": 0,
+      "main_ids": [
+        625152488861073441,
+        625221072597549066,
+        1187690841830076488,
+        657580545303248902,
+        607271115995217920
+      ],
+      "extra_ids": [],
+      "status_open": true,
+      "creator_id": 625152488861073441,
+      "creator_tag": "ceo",
+      "closes_at": null,
+      "channel_id": 1234880050692886540,
+      "scheduled_at": "2026-04-05T21:26:50+00:00"
+    }
+  },
+  "kontrakt": {
+    "1490459477369946415": {
+      "channel_id": 1481393505971601439,
+      "creator_id": 1238538047226773539,
+      "creator_tag": "𝔭𝔢𝔰𝔱𝔬𝔫𝔞",
+      "title": "123",
+      "veksels": "123",
+      "time_slot": "123",
+      "razdel_100": "123",
+      "people_note": "123",
+      "max_participants": 40,
+      "participant_ids": [
+        1238538047226773539,
+        786989279033032714
+      ],
+      "status_open": true
+    },
+    "1490459743372836945": {
+      "channel_id": 1481393505971601439,
+      "creator_id": 786989279033032714,
+      "creator_tag": "ddusharツ",
+      "title": "123",
+      "veksels": "123",
+      "time_slot": "231",
+      "razdel_100": "3123",
+      "people_note": "321",
+      "max_participants": 40,
+      "participant_ids": [],
+      "status_open": true
+    },
+    "1490460102983946261": {
+      "channel_id": 1481393505971601439,
+      "creator_id": 786989279033032714,
+      "creator_tag": "ddusharツ",
+      "title": "123",
+      "veksels": "123",
+      "time_slot": "123",
+      "razdel_100": "123",
+      "people_note": "132",
+      "max_participants": 40,
+      "participant_ids": [
+        1238538047226773539,
+        786989279033032714
+      ],
+      "status_open": true
+    },
+    "1490461335123791953": {
+      "channel_id": 1481393505971601439,
+      "creator_id": 1238538047226773539,
+      "creator_tag": "𝔭𝔢𝔰𝔱𝔬𝔫𝔞",
+      "title": "3424",
+      "veksels": "242",
+      "time_slot": "234",
+      "razdel_100": "243",
+      "people_note": "234",
+      "max_participants": 40,
+      "participant_ids": [
+        1238538047226773539,
+        786989279033032714
+      ],
+      "status_open": true
+    },
+    "1490461388391579688": {
+      "channel_id": 1481393505971601439,
+      "creator_id": 786989279033032714,
+      "creator_tag": "ddusharツ",
+      "title": "4423",
+      "veksels": "23",
+      "time_slot": "324",
+      "razdel_100": "123",
+      "people_note": "23",
+      "max_participants": 23,
+      "participant_ids": [
+        786989279033032714
+      ],
+      "status_open": true
+    }
+  }
+}
